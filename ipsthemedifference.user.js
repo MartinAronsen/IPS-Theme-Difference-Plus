@@ -1,9 +1,11 @@
 // ==UserScript==
 // @name         IPS Theme Difference Plus
-// @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @namespace    https://github.com/MartinAronsen/IPS-Theme-Difference-Plus/
+// @version      0.2
+// @description  Work magic on the Theme Difference tool by IPS
+// @author       Preben Liland Madsen ( Modified by Martin Aronsen )
+// @updateURL    https://github.com/MartinAronsen/IPS-Theme-Difference-Plus/raw/master/ipsthemedifference.user.js
+// @downloadURL  https://github.com/MartinAronsen/IPS-Theme-Difference-Plus/raw/master/ipsthemedifference.user.js
 // @match        https://invisioncommunity.com/index.php?app=core&module=system&controller=plugins&do=diff
 // @grant        none
 // ==/UserScript==
